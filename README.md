@@ -11,5 +11,6 @@ Program pobiera dane firm z pliku .csv
 ## Wykres:
 ![Ekran Główny:](Images/4.PNG)
 ## Dodawanie firmy:
-![Ekran Główny:](Images/5.PNG)
+
+![Ekran Główny:](Images/8.PNG)
 ![Ekran Główny:](Images/6.PNG)
